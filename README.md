@@ -21,10 +21,7 @@ comments within our HTML code.
 ## Getting Started
 
 If you haven't already, fork and clone this lesson into your local environment.
-Navigate into its directory in the terminal, then run `code .` to open the files
-in Visual Studio Code.
-
-## Recognize Basic HTML Document Structure
+l## Recognize Basic HTML Document Structure
 
 Let's start by adding the bare essentials of an HTML document to the provided
 `index.html` file:
